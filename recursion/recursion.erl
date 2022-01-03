@@ -1,4 +1,4 @@
--module(listings).
+-module(recursion).
 -export([main/0]).
 
 % main function that calls recursive function
